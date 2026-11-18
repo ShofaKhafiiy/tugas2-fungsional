@@ -32,13 +32,10 @@ tugas2-fungsional/
 ├── app4.py
 ├── app5.py
 ├── README.md
-├── LAPORAN.md
-├── LAPORAN.docx
-├── bukti/
-└── writing-block.md
+└── bukti/
 ```
 
-Repository: https://github.com/ShofaKhafiiy/tugas2-fungsional (branch `main`). Folder ini adalah root repository.
+Repository: [ShofaKhafiiy/tugas2-fungsional](https://github.com/ShofaKhafiiy/tugas2-fungsional) (branch `main`). Folder ini adalah root repository. `LAPORAN.md`, `LAPORAN.docx`, dan `writing-block.md` sengaja tidak disertakan di GitHub.
 
 Keterangan singkat:
 
@@ -258,6 +255,6 @@ Durasi pada `app1.py` bersifat dinamis sehingga angka milidetik dapat berbeda pa
 
 ## Referensi
 
-- `writing-block.md` — spesifikasi proyek Pemrograman Fungsional UMM.
+- Spesifikasi proyek Pemrograman Fungsional UMM (`writing-block.md`, disimpan di luar repository).
 - Modul 1–4 Pemrograman Fungsional UMM.
 - Python Software Foundation. *Python 3 Standard Library: functools, itertools, copy, time*. https://docs.python.org/3/
